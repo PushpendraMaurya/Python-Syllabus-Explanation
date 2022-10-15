@@ -1,0 +1,18 @@
+There are 7 type of operator 
+
+Arithmatic operator :- [+,*,-,/,//,]
+
+Assignment operator :- [=, ]
+
+Comparison operator
+
+Bitwise operator
+
+Membership operator
+
+Idenitity operator
+
+Logical operator
+
+
+

@@ -1,0 +1,6 @@
+set operation it is used to  opearnd two ways :- 
+ :- Sets can be used to carry out mathematical set operations like union, intersection, difference
+
+1 - operator
+
+2 - method

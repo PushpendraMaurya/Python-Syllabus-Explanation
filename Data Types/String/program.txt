@@ -1,0 +1,62 @@
+Its a advanced data types in python.
+
+
+There are below list of data types .
+
+String  :- string it is used to make a comments in python .
+
+There are 3 types of string in python .
+
+1 - string :- it is used to create a textuale data in python denoted by "" or '' quotes .
+
+example :-
+                 
+                 "its a comments "
+
+                 'its a comments'
+
+                 string is allow specific character like /n , /t etc .
+
+                 "its a comment /n like this"
+
+                 "it used only single line comments "
+
+                 /n  :- new line 
+
+
+2 - Doc String  :- Doc string it  is used to create a string a multiline comments 
+                in python or define as a documents file.
+
+        define using '''  3 single quotes '''
+
+example :- 
+
+'''
+this is
+python
+program 
+file
+'''
+
+
+3 - Raw String :- raw string is is used to make a program as it is datasheet or documentation also.
+
+use raw string in program before create a documentation use small r than create a string.
+
+example :- 
+
+r"this is /n datasheet file "
+
+Note :- String is a mutable data it means string once will be created than after not changed or modified also .
+
+
+                 
+
+list  :- List is a data types in python which is used to created a list of data .
+denoted by [] square bracket . list is used to make a slicing program . as well as know as regular expressions also.
+
+
+
+Dictionary
+set
+etc.

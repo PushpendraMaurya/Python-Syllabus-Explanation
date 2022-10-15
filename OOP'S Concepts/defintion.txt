@@ -1,0 +1,37 @@
+oops its a object orient programming language .
+
+it is used to resued the code , proudctivity, security, easy to troublshoot, data redundancy
+code structure,  easy to learn.
+
+They have more advantages in oops.
+
+There are 4 Types of Features in OOops their use a different - 2 task to perform.
+
+
+    1. Inheritnce
+
+    2. Encapsulation
+
+    3.Polymorphism
+
+    4.Abstraction
+
+
+
+1. Inheritnce :- Inheritnce used to reused the code into 1 class to another class. it means derived class inherit base class property.
+
+There are 5 types of Inheritnce to resued he code .
+
+     1. Single Inheritnce
+
+     2 .Multilevel Inheritnce
+
+     3. Multiple Inheritnce
+
+     4. Hierarchical Inheritnce
+
+     5.Hybrid Inheritnce 
+
+
+
+Single Inheritnce:- Single inheritence 

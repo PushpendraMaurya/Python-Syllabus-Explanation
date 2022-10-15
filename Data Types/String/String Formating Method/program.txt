@@ -1,0 +1,14 @@
+what is string formating :-
+
+it is use in string to pass the  withoutpermision to whole number of data .
+
+There are 3 method to pass the data for withoutpermision .
+
+
+1 - Formate method
+
+2 - Fstring 
+
+3 - % "mode" method(% method)
+
+
